@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMissingLetter", "FindMissingLetter.csproj", "{8E711C83-10F9-40D1-824B-F924BFDAEA29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E711C83-10F9-40D1-824B-F924BFDAEA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E711C83-10F9-40D1-824B-F924BFDAEA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E711C83-10F9-40D1-824B-F924BFDAEA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E711C83-10F9-40D1-824B-F924BFDAEA29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE2196C-C96F-4502-9424-5F5C06100B4B}
+	EndGlobalSection
+EndGlobal
